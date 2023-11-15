@@ -1,2 +1,2 @@
-# SolvedProblems From Java Fundamentals
+# SolvedProblems from the program of SoftUni
 Exercises
